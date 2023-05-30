@@ -11,4 +11,4 @@ El modulo permite tomar un archivo de excel y bajo el ingreso de ciertos campos,
 Dar clic en los tres puntos al lado derecho del modulo y elegir la opcion 
 "Actualizar"
 
-![imagen1](img/imagen1.png)
+![](/img/img_1.PNG)
