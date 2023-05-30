@@ -1,0 +1,1 @@
+# odoo_medmag_3005
